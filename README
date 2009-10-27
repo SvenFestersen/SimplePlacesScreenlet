@@ -1,5 +1,6 @@
-The SimpleClockScreenlet just shows the current time.
-Themes for ftpTODOScreenlet and LocalTODOScreenlet can also be used for thsi Screenlet.
+The SimplePlacesScreenlet displays a list of the gtk bookmarks (similar
+to the sidebar in nautilus file manager).
+Themes for ftpTODOScreenlet and LocalTODOScreenlet can also be used for this Screenlet.
 
 Author: Sven Festersen (sven@sven-festersen.de)
 License: GPL
